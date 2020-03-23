@@ -6,3 +6,8 @@
 - [ ] Create analysis
 - [ ] Send out a frequency to match that rate
 - [X] Yoink someone else's matplotlib graph
+
+### Specs 
+- Running on AV LINUX
+- Raspberry Pi $
+- Audio Input Blue Snowball
