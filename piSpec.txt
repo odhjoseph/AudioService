@@ -1,0 +1,87 @@
+processor	: 0
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 108.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 1
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 108.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 2
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 108.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 3
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 108.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+Hardware	: BCM2835
+Revision	: c03111
+Serial		: 100000005775e006
+Model		: Raspberry Pi 4 Model B Rev 1.1
+
+MemTotal:        3999756 kB
+MemFree:         3124552 kB
+MemAvailable:    3632232 kB
+Buffers:           41712 kB
+Cached:           622276 kB
+SwapCached:            0 kB
+Active:           304268 kB
+Inactive:         427872 kB
+Active(anon):      68660 kB
+Inactive(anon):    59792 kB
+Active(file):     235608 kB
+Inactive(file):   368080 kB
+Unevictable:          16 kB
+Mlocked:              16 kB
+HighTotal:       3264512 kB
+HighFree:        2562996 kB
+LowTotal:         735244 kB
+LowFree:          561556 kB
+SwapTotal:        102396 kB
+SwapFree:         102396 kB
+Dirty:                 4 kB
+Writeback:             0 kB
+AnonPages:         68220 kB
+Mapped:            79004 kB
+Shmem:             60300 kB
+Slab:              66076 kB
+SReclaimable:      34684 kB
+SUnreclaim:        31392 kB
+KernelStack:        1520 kB
+PageTables:         3004 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     2102272 kB
+Committed_AS:     776328 kB
+VmallocTotal:     245760 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:              656 kB
+CmaTotal:         262144 kB
+CmaFree:          205860 kB
+
