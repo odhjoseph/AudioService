@@ -9,6 +9,7 @@
 
 # How to run the Repo
 **If you follow the terminal version keep it open at all times, also command prompt is slightly different**
+
 First clone the repo, with this command in your terminal.
 ```bash
 git clone https://github.com/odhjoseph/AudioService.git
