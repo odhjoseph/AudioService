@@ -8,10 +8,23 @@
 - [X] Yoink someone else's matplotlib graph
 
 # How to run the Repo
-Bash wasn't working so just run these commands in your terminal 
-- source recording/piAudio/bin/activate 
-- pip3 install -r recording/newRequirements.txt 
-- python3 recording/example.py
+**If you follow the terminal version keep it open at all times, also command prompt is slightly different**
+First clone the repo, with this command in your terminal.
+```bash
+git clone https://github.com/odhjoseph/AudioService.git
+```
+**Note:** If you're running windows and this doesn't work, that's because git doesn't come pre-installed. 
+Instead just download the zip file and unzip it wherever you want. Then open a terminal in that directory you installed my left clicking the folder.
+
+Enter that directory in your terminal, or open a terminal from that folder.
+Command to change directory
+
+Run these commands in your terminal
+```bash
+source recording/piAudio/bin/activate 
+pip3 install -r recording/newRequirements.txt 
+python3 recording/example.py
+```
 
 If one of these don't work it's probably because of installation problems.
 
@@ -21,7 +34,9 @@ These both should just return a path, if it doesn't install python3
 *Windows trouble shoot*
 - where python3 
 
-*macOS*
+
+
+*Unix/Linux* macOS = unix 
 - which python3 
 
 #### Can't install requirements.txt
