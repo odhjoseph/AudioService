@@ -46,7 +46,7 @@ which python3
 Run this if you get this error:
  **"ERROR: Could not install packages due to an EnvironmentError: [Errno 13] Permission denied:"**
 ```bash
-sudo - H pip3 install -r recording/newRequirements.txt 
+sudo -H pip3 install -r recording/newRequirements.txt 
 ```
 
 ##### Windows
