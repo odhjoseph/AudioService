@@ -12,6 +12,7 @@
 
 First clone the repo, with this command in your terminal.
 ```bash
+pip3 install virtualenv 
 git clone https://github.com/odhjoseph/AudioService.git
 ```
 **Note:** If you're running windows and this doesn't work, that's because git doesn't come pre-installed. 
