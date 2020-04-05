@@ -55,7 +55,7 @@ sudo -H pip3 install -r recording/newRequirements.txt
 ##### Windows
 Check if you're running the terminal with administrative rights 
 
-### Adding a new mic, requires sounddevice to me re-initalized 
+### Adding a new mic, requires sounddevice to be re-initialized 
 ```python
 sd._terminate()
 sd._initialize()
