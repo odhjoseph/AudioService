@@ -55,6 +55,17 @@ sudo -H pip3 install -r recording/newRequirements.txt
 ##### Windows
 Check if you're running the terminal with administrative rights 
 
+### Adding a new mic, requires sounddevice to me re-initalized 
+```python
+sd._terminate()
+sd._initialize()
+```
+This stops any ongoing stream, might need to find a fork of portaudio that allows it. Most forks arent' updated, so good luck. Afer you can query agian.
+
+```python 
+sd.query_devices()
+```
+
 ### Specs 
 - Running on AV LINUX
 - Raspberry Pi $
