@@ -61,7 +61,7 @@ Check if you're running the terminal with administrative rights
 sd._terminate()
 sd._initialize()
 ```
-This stops any ongoing stream, might need to find a fork of portaudio that allows it. Most forks arent' updated, so good luck. Afer you can query agian.
+This stops any ongoing stream, might need to find a fork of portaudio that allows it. Most forks aren't updated, so good luck. Afer you can query agian.
 
 ```python 
 sd.query_devices()
