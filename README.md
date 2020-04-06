@@ -4,6 +4,7 @@
 
 - [ ] Create our own spectograph
 - [ ] Create analysis
+- [ ] Integrate with rtmixer
 - [ ] Send out a frequency to match that rate
 - [X] Yoink someone else's matplotlib graph
 
@@ -70,4 +71,8 @@ sd.query_devices()
 - Running on AV LINUX
 - Raspberry Pi $
 - Audio Input Blue Snowball
+
+### Dependency
+
+https://github.com/spatialaudio/python-rtmixer
 
