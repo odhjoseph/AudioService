@@ -72,7 +72,7 @@ sd.query_devices()
 - Raspberry Pi $
 - Audio Input Blue Snowball
 
-### Dependency
+### WIA: Dependencies
 
-https://github.com/spatialaudio/python-rtmixer
+[rtmixer](https://github.com/spatialaudio/python-rtmixer)
 
