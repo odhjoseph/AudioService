@@ -1,7 +1,0 @@
-*.cfg
-*.swp
-bin/
-lib/
-__pypackages__/
-ipython_config.py
-.venv
