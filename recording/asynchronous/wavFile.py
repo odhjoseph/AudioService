@@ -33,7 +33,13 @@ class audioBuffer():
 
     @stream.setter
     def stream(self, stream):
-        self.stream = stream
+        #Overcomplicated way to do it
+        #TODO: Create dict, check if dict is in there, call it from the dict fucntion key
+        module = __import__('sounddevice')
+        streamType = getattr(module, self.audioStreamType)
+        return streamType()        
+
+    
 
 
 
