@@ -38,7 +38,7 @@ py -m venv piAudio
 Run these commands in your terminal
 ```bash
 source recording/piAudio/bin/activate 
-pip3 install -r recording/newRequirements.txt 
+pip3 install -r recording/requirements.txt 
 python3 recording/example.py
 ```
 >**Note:** I put my python virtual environment inside the recording folder

@@ -1,7 +1,7 @@
 # Scuffed Versioning
 
 - requirements.txt 0.0.1
-- requirements.txt 0.0.2
+- newRequirements.txt 0.0.2
 
 Whatever is in recording is the main version
 
