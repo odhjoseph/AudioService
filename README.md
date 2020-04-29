@@ -65,6 +65,7 @@ Run this if you get this error:
 ```bash
 sudo -H pip3 install -r recording/newRequirements.txt 
 ```
+>**Note: My system setup is somewhat odd and I can just install with sudo, you'll probably just want to use the --user flag so you don't need sudo for pip. When in doubt --user before sudo.**
 
 #### Windows
 Check if you're running the terminal with administrative rights 
